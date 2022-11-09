@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+        <title>Genérico</title>
+
+        <link rel="stylesheet" href="criticas.css">
+        <meta name='viewport' content='width=device-width, initial-scale=1'>
+        <script src='main.js'></script>
+    </head>
+    <body>
+      <header>
+        <img src="op.png" class="imgcrt">
+      </header>
+        <h1>One Piece</há>
+      
+        <p>One Piece é uma obra escrita e ilustrada por <i>Eichiro Oda</i>, sendo um dos maiores animes de todos os tempos, em ambos os sentidos. A obra foi criada em 1997 e prossegue até os dias de hoje.</p>
+        <p>A obra é voltada para a vida e desafios de um pirata chamado Monkey D. Luffy, que navega por toda a Grand Line em busca de se tornar o <strong>Rei dos Piratas</strong>, mas ele tem que passar por problemas intensos para realizar seu sonho, por isso ele conta com a ajuda de sua tripulação para chegar lá.</p>
+      
+        <h2>Crítica</h2>
+           
+        <p>Um anime que marcou a história e a infância de muitas pessoas, por diversos motivos. Esse anime possui grandes pontos positivos e é muito difícil conseguir apontar os pontos negativos, não só isso como também, ele é um anime que toca muitas pessoas sentimentalmente. Essa obra, em todos os seus 1000 episódios possui uma trama muito boa e bem desenvolvida, além de que tem personagens marcantes, histórias que você não consegue esquecer, vilões memoraveis, etc... graças a isso, ele sobreviveu bem durante todo esse tempo e ainda está apenas encaminhando para algo maior.</p>
+        <p>A obra pussui também diversos filmes que seguem a mesma tematica, mas sempre de uma forma incrível e que, diferente de outros do genero, te prendem sempre. Como se não bastasse seus 15 filmes, a empresa munfialmente conhecida <em>Netflix</em> propos uma dublagem oficial brasileira que já foi lançada e está sendo desenvolvida e também uma série em Live action. Por isso muitos dos fãs acreditam que a obra pode se tornar algo muito maior do que já é.</p>
+        
+      <h3>Se já terminou</h3>
+      <p>Caso tenha gostado de uma olhada em outros pontos nosso:</p>
+      <ul>
+        <li><a href="genérico.html">Central</a></li>
+        <li><a href="animes.html">Mais animes</a></li>
+      </ul>
+      
+      <h3>Caso não tenha gostado</h3>
+      <p><strong>TCHAU!!!</strong></p>
+    </body>
+</html>
