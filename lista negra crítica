@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+        <title>Genérico</title>
+
+        <link rel="stylesheet" href="criticas.css">
+        <meta name='viewport' content='width=device-width, initial-scale=1'>
+        <script src='main.js'></script>
+    </head>
+    <body>
+      <header>
+        <img src="ln.png" class="imgcrt">
+      </header>
+      <h2>Lista Negra</h2>
+      <p>E se você desejasse a morte de uma pessoa e isso acontecesse? E se o assassino fosse alguém que você ama? O namorado de Valerie Leftman, Nick Levil, abriu fogo contra vários alunos na cantina da escola em que estudavam. A tentar detê-lo, Valerie também salvando a vida de um colega que a mal responsabilizada pela tragédia por causa da lista que é criada a fim de criar. A lista com o nome dos estudantes que praticavam bullying contra os dois. A lista que ele usou para escolher seus alvos. Agora, ainda se recuperando do ferimento e do trauma, Val é forçada a enfrentar uma dura realidade ao voltar para a escola para terminar o Ensino Médio. Assombrada pela lembrança do namorado, que ainda ama, passando por relacionamento com a família, com os ex-amigos e a garota a quem salvou.</p>
+      <p>A Lista Negra, de Jennifer Brown, é um romance instigante, que toca o leitor; leitura obrigatória, profunda e comovente. Um livro sobre bullying dentro das escolas que provoca sobre as atitudes, principalmente, sobre o comportamento humano. Enfim, uma bela história sobre auto-conhecimento e perdão.</p>
+      
+      <h2>Crítica</h2>
+      <p>Se você quer um livro de romance esse não é pra você, o livro se passa numa escola onde aconteceu um massacre, particularmente eu acho a Val que é a protagonista uma idiota,eu sei que ela tem sua opinião mas meu deus porque ela continua remoendo o passado?( não posso julgar muito, eu faço igual) mas porque? Voltando, o livro passa uma boa mensagem mas acaba que o final deixa um pouco a desejar, o meu forte são livros de romance mas esse não tem nenhum.</p>
+        
+      <h3>Se já terminou</h3>
+      <p>Caso tenha gostado de uma olhada em outros pontos nosso:</p>
+      <ul>
+        <li><a href="genérico.html">Central</a></li>
+        <li><a href="livros.html">Mais livros</a></li>
+      </ul>
+      
+      <h3>Caso não tenha gostado</h3>
+      <p><strong>TCHAU!!!</strong></p>
+    </body>
+</html>
